@@ -44,7 +44,7 @@ uma lista onde pode adicionar,excluir,confirmar e salvar suas tarefas
 ## 📫 Contato
 
 - Email: randleysantos1@gmail.com 
-- LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
+- LinkedIn: [linkedin.com/in/seuusuario](www.linkedin.com/in/randley-ray-5b3a4039a)  
 - GitHub: [github.com/wolf007panzer](https://github.com/wolf007panzer)
 
 ---
