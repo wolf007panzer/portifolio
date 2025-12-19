@@ -51,7 +51,7 @@ uma lista onde pode adicionar,excluir,confirmar e salvar suas tarefas
 
 ## 🌐 GitHub Pages
 
-Você pode visualizar meu portfólio online em: [seuusuario.github.io/portfolio-randley](https://seuusuario.github.io/portfolio-randley)
+Você pode visualizar meu portfólio online em: [seuusuario.github.io/portfolio-randley -(https://github.com/wolf007panzer/portifolio/blob/aab4c5e884b0f9bc1e926fb667c22e75a5197fbd/README.md)
 
 ---
 
