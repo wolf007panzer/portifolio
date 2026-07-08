@@ -1,0 +1,65 @@
+.post-page {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  font-family: 'Inter', -apple-system, sans-serif;
+}
+
+.post-page h1 {
+  font-size: 32px;
+  color: #1a1a2e;
+  margin-bottom: 8px;
+}
+
+.post-meta {
+  color: #888;
+  font-size: 14px;
+  margin-bottom: 24px;
+}
+
+.post-content {
+  font-size: 17px;
+  line-height: 1.7;
+  color: #333;
+}
+
+.comments-section {
+  margin-top: 48px;
+  border-top: 1px solid #eee;
+  padding-top: 24px;
+}
+
+.comments-section h2 {
+  font-size: 18px;
+  color: #1a1a2e;
+}
+
+.new-comment-form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+
+.new-comment-form textarea {
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-family: inherit;
+}
+
+.new-comment-form button {
+  align-self: flex-end;
+  background: #6c5ce7;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.loading {
+  text-align: center;
+  padding: 60px 0;
+  color: #888;
+}

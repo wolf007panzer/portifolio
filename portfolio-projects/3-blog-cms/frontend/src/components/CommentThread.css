@@ -1,0 +1,57 @@
+.comment-thread {
+  border-left: 2px solid #eee;
+  padding-left: 12px;
+  margin-top: 12px;
+}
+
+.comment strong {
+  font-size: 14px;
+  color: #1a1a2e;
+}
+
+.comment-date {
+  font-size: 11px;
+  color: #999;
+  margin-left: 8px;
+}
+
+.comment p {
+  margin: 6px 0;
+  font-size: 14px;
+  color: #444;
+}
+
+.btn-reply {
+  background: none;
+  border: none;
+  color: #6c5ce7;
+  font-size: 12px;
+  cursor: pointer;
+  padding: 0;
+}
+
+.reply-form {
+  margin-top: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.reply-form textarea {
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-family: inherit;
+  font-size: 13px;
+}
+
+.reply-form button {
+  align-self: flex-end;
+  background: #6c5ce7;
+  color: white;
+  border: none;
+  padding: 6px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 12px;
+}
